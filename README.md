@@ -36,3 +36,4 @@ Test veri seti üzerinde elde edilen sonuçlar:
 * `loss_vs_epoch.png` / `accuracy_vs_epoch.png`: Eğitim ve doğrulama optimizasyon grafiklerinin dökümü.
 * `learning_curve.png`: Modelin öğrenme dinamiklerini gösteren bütünleşik eğri.
 * `confusion_matrix.png`: Modelin vahşi doğa kamuflajları ve ırk çeşitliliği karşısındaki performansını gösteren sınıflar bazında detaylı hata analizi (Karmaşıklık Matrisi).
+(VERİ SETİNİN BOYUTU BÜYÜK OLDUĞU İÇİN VERİ SETİNİ YÜKLENMİYOR)
